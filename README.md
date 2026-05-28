@@ -21,7 +21,7 @@ The planner is engineered to solve both complex static environments (avoiding lo
 
 ## Project Structure
 ```text
-PR2/
+Project/
     ├── maps/         # directory for storing map definitions
     ├── README.md           
     ├── main.py       # Execution script and visualization logic
