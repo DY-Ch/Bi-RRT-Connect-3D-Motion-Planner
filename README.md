@@ -22,7 +22,6 @@ The planner is engineered to solve both complex static environments (avoiding lo
 ## Project Structure
 ```text
 .
-├── latex/                                      # LaTeX source code for the technical report
 ├── maps/                                       # Directory for storing 3D map definitions
 ├── Bi_RRT_Connect_Algorithm_Analysis.pdf       # Comprehensive technical report and performance analysis
 ├── Planner.py                                  # Core algorithmic implementations (Bi-RRT-Connect)
