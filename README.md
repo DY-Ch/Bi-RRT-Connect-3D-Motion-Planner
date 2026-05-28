@@ -1,7 +1,7 @@
 # Bi-RRT-Connect-3D-Motion-Planner
 A Bi-Directional RRT-Connect motion planner for continuous 3D environments, featuring sub-0.033s dynamic fast-replanning and vectorized AABB collision checking.
 
-![Motion Planning Demo]<img width="640" height="480" alt="test_maze" src="https://github.com/user-attachments/assets/b21fceec-7a50-4dc5-baab-8c9b1deb4c31" />
+<img width="320" height="240" alt="test_maze" src="https://github.com/user-attachments/assets/b21fceec-7a50-4dc5-baab-8c9b1deb4c31" />
 
 
 ## Overview
