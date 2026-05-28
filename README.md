@@ -21,11 +21,13 @@ The planner is engineered to solve both complex static environments (avoiding lo
 
 ## Project Structure
 ```text
-Project/
-    ├── maps/         # directory for storing map definitions
-    ├── README.md           
-    ├── main.py       # Execution script and visualization logic
-    └── Planner.py    # Core algorithmic implementations
+.
+├── latex/                                      # LaTeX source code for the technical report
+├── maps/                                       # Directory for storing 3D map definitions
+├── Bi_RRT_Connect_Algorithm_Analysis.pdf       # Comprehensive technical report and performance analysis
+├── Planner.py                                  # Core algorithmic implementations (Bi-RRT-Connect)
+├── main.py                                     # Execution script and visualization logic
+└── README.md
 ```
 
 ## Algorithmic Implementations
