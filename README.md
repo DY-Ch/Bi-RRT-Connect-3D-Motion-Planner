@@ -9,7 +9,7 @@ This repository contains a highly optimized motion planning architecture designe
 
 The planner is engineered to solve both complex static environments (avoiding local minima / bug traps) and extreme dynamic scenarios requiring ultra-fast replanning for moving targets.
 
-### 🏆 Key Performance Highlights
+### Key Performance Highlights
 * **Dynamic Fast-Replanning:** Executes entirely from scratch in milliseconds, successfully satisfying strict sub-0.1s replanning limits for moving targets.
 * **Robust Exploration:** The Bi-Directional RRT-Connect algorithm seamlessly escapes complex local minima (e.g., Maze environments).
 * **Vectorized Collision Checking:** Replaced standard iterative collision loops with a purely vectorized NumPy implementation of the Slab Method, evaluating thousands of continuous line-segment-to-AABB connections simultaneously.
